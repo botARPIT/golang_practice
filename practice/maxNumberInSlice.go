@@ -1,10 +1,10 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	fmt.Println(findMaxNumber([]int{50, 60, 80, 10, 99, 200}))
-}
+// func main() {
+// 	fmt.Println(findMaxNumber([]int{50, 60, 80, 10, 99, 200}))
+// }
 
 func findMaxNumber(numbers []int) int {
 	var max int = 0
